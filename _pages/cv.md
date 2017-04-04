@@ -2,7 +2,7 @@
 layout:    page
 permalink: "/CV/"
 author:    yduan
-weight:    5
+weight:    3
 menutitle: CV
 ---
 

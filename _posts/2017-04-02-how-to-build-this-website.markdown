@@ -17,6 +17,8 @@ Tips:
 
 * Publishing the website: You need to go to **_ _config.yml_** and change ``url:`` and ``baseurl:`` to be the base hostname & protocol for your site. If you use the same theme as I do, modify **_robots.txt_** as well. Make sure your url is something like ``https://<yourusername>.github.io``, not ``http://...``, which may lead to a display error like _This page is trying to load scripts from unauthenticated sources_ (find the solution [here][httpserror]).
 
+* To change the order of your pages shown in the navigation, go to ``_pages``, and add a ``weight: <#orderYouWant>`` parameter to the layout section of each page.
+
 [jekyll]: https://jekyllrb.com/
 [youtube-howto]: https://www.youtube.com/watch?v=HOg8jWZ3lt0
 [githubpage]: https://pages.github.com/
