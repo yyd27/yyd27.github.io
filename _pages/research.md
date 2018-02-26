@@ -7,6 +7,7 @@ menutitle: Research
 ---
 
 ### Eye movement and cognitive processes
+
 **Duan, Y.**, & Bicknell, K. (2017). Refixations gather new visual information rationally. In _Proceedings of the 39th Annual Conference of the Cognitive Science Society._ [[pdf]](/assets/duan-bicknell-2017.pdf)
 
 Yu, H., **Duan, Y.**, & Zhou, X. (2017). Guilt in the eyes: Eye movement and physiological evidence for guilt-induced social avoidance. _Journal of Experimental Social Psychology._ [[doi]](https://doi.org/10.1016/j.jesp.2017.03.007)
