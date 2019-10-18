@@ -6,7 +6,8 @@ weight:    2
 menutitle: Research
 ---
 
-### Eye movement and cognitive processes
+<p align="center"> <b> Eye movement and cognitive processes </b> </p>
+
 **Duan, Y.**, & Bicknell, K. (2019). A rational model of word skipping in reading: Ideal integration of visual and linguistic information. In _Proceedings of the 41th Annual Conference of the Cognitive Science Society._ 
 
 **Duan, Y.**, & Bicknell, K. (2017). Refixations gather new visual information rationally. In _Proceedings of the 39th Annual Conference of the Cognitive Science Society._ [[pdf]](/assets/duan-bicknell-2017.pdf)
@@ -19,5 +20,6 @@ Luo, Y., **Duan, Y.**, & Zhou, X. (2015). Processing rhythmic pattern during Chi
 
 Wang, L., **Duan, Y.**, Theeuwes, J., & Zhou, X. (2014). Reward breaks through the inhibitory region around attentional focus. _Journal of Vision._ [[pdf]](/assets/wang-duan-theeuwes-zhou-2014.pdf)
 
-### Machine learning
+<p align="center"> <b> Machine learning </b> </p>
+
 ***Duan, Y.**, & *Wu, O. (2016). Learning with auxiliary less-noisy labels. _IEEE Transactions on Neural Networks and Learning Systems._ [[doi]](https://doi.org/10.1109/tnnls.2016.2546956) ( * indicates equal contributions.)
