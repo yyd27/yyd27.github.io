@@ -6,6 +6,4 @@ weight:    3
 menutitle: CV
 ---
 
-My [CV](/assets/cv-YunyanDuan.pdf) (for academia).
-
-My [resume](/assets/resume-YunyanDuan.pdf) (for industry).
+My full [résumé](/assets/Duan_resume_full.pdf).
