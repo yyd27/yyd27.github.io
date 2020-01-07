@@ -12,5 +12,5 @@ Report here: [report][report-link].
 
 Code here: [code][code-link].
 
-[report-link]: /assets/ao3_main-Copy2.pdf/
+[report-link]: /assets/ao3_main.html
 [code-link]: https://github.com/yyd27/fantoms_babel_tower/
