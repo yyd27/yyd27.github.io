@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "An overview of CRW2020"
+author: yduan
+date:   2020-05-12 00:00:00 -0500
+categories: jekyll
+tags: Jekyll Website
+---
+This is an analysis of CRW2020.
+
+Report here: [report][report-link]. 
+
+Code here: [code][code-link].
+
+[report-link]: /assets/CRWnotebook.html
+[code-link]: https://github.com/yyd27/CRW2020/
