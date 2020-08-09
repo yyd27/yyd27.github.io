@@ -7,6 +7,7 @@ menutitle: Research
 ---
 
 <p align="center"> <b> Eye movement and cognitive processes </b> </p>
+Chang, W., **Duan, Y.**, Qian, J., Wu, F., Jiang, X., & Zhou, X. (2020). Gender interference in processing Chinesecompound reflexive:  Evidence from reading eye-tracking. _Language, Cognition and Neuroscience._ [[doi]](https://doi.org/10.1080/23273798.2020.1781213)
 
 **Duan, Y.**, & Bicknell, K. (2019). A rational model of word skipping in reading: Ideal integration of visual and linguistic information. In _Proceedings of the 41th Annual Conference of the Cognitive Science Society._ 
 
