@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Plot with ggplot2"
+author: yduan
+date:   2021-06-03 18:40:00 +0800
+categories: R
+tags: R
+---
+Plot in R using ggplot2.
+
+Report here: [report][report-link]. 
+
+Code here: [code][code-link].
+
+[report-link]: https://github.com/yyd27/plot_R/blob/master/Original/plot20210603.html
+[code-link]: https://github.com/yyd27/plot_R/
