@@ -12,5 +12,5 @@ Report here: [report][report-link].
 
 Code here: [code][code-link].
 
-[report-link]: https://github.com/yyd27/plot_R/blob/master/Original/plot20210603.html
-[code-link]: https://github.com/yyd27/plot_R/
+[report-link]: /assets/plot2021_markdown.html
+[code-link]: https://github.com/yyd27/plot_R/blob/master/Original/plot20210603.Rmd
