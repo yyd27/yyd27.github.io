@@ -6,4 +6,4 @@ weight:    3
 menutitle: CV
 ---
 
-My full [résumé](/assets/Duan_resume_full.pdf).
+My [résumé](/assets/Duan_resume_full.pdf).
