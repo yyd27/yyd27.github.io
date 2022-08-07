@@ -11,7 +11,7 @@ menutitle: Projects
 (Research at Northwestern University)
 
 To understand how eye movement control and word identification work in reading, we use rational analysis with computational modeling to study how different sources of information (visual, linguistic, and contextual) act interactively to identify words and influence eye movement decisions.
-(Some code [here](https://github.com/langcomp/Eye-movements-rational-model-py).
+(Some code [here](https://github.com/langcomp/Eye-movements-rational-model-py)).
 
 <p align="left"> <b> Reduce word error rate in speech-to-text transcriptions </b> </p>
 
