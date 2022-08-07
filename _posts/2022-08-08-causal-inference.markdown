@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "List of resources for learning causal inference"
+title:  "Resources for learning causal inference"
 author: yduan
 date:   2022-08-08 00:00:00 +0200
 categories: machine_learning
